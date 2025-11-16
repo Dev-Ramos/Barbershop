@@ -5,7 +5,7 @@ import banner from "@/public/banner.png";
 import BookingItem from "./_components/BookingItem";
 import { prisma } from "@/lib/prisma";
 import { BarbershopItem } from "./_components/BarbershopItem";
-import Footer from "./_components/Footer.tsx";
+import Footer from "@/app/_components/footer";
 import {
   PageContainer,
   PageSection,
